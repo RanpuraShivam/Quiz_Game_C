@@ -1,0 +1,42 @@
+[
+    {
+        "text": "What is the capital of France?",
+        "correct_answer": "Paris"
+    },
+    {
+        "text": "Which programming language is this quiz written in?",
+        "correct_answer": "Python"
+    },
+    {
+        "text": "What is the largest planet in our solar system?",
+        "correct_answer": "Jupiter"
+    },
+    {
+        "text": "How many continents are there in the world?",
+        "correct_answer": "7"
+    },
+    {
+        "text": "Who wrote 'Romeo and Juliet'?",
+        "correct_answer": "William Shakespeare"
+    },
+    {
+        "text": "What is the largest ocean on Earth?",
+        "correct_answer": "Pacific"
+    },
+    {
+        "text": "In which year did the first moon landing occur?",
+        "correct_answer": "1969"
+    },
+    {
+        "text": "Who painted the Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci"
+    },
+    {
+        "text": "Which planet is known as the 'Red Planet'?",
+        "correct_answer": "Mars"
+    },
+    {
+        "text": "What is the capital of Japan?",
+        "correct_answer": "Tokyo"
+    }
+]
